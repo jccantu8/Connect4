@@ -242,5 +242,5 @@ end
 
   #uncomment these lines to play
   
-  #test = Connect4.new
-  #test.play
+  test = Connect4.new
+  test.play
